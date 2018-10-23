@@ -1,8 +1,6 @@
 # BreweryCLI
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Brewery_CLI`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to my Brewery CLI! Once you put in the state of interest, this gem will return a list of Breweries in your state. If you would like more information about a certain Brewery, simply put in the number next to the Brewery and the user will be returned with the address, telephone number, website, and Brewery type.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Enter the state abbreviation. user will be returned with a numbered list of Brewery names. The user can then enter the brewery number to get more information on a brewery, enter another state, or exit.
 
 ## Development
 
